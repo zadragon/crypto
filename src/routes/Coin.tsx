@@ -136,7 +136,7 @@ function Coin() {
         </Title>
       </Header>
       {loading ? (
-        <Loader>Loading...</Loader>
+        <Loader>Loading....</Loader>
       ) : (
         <>
           <Overview>
